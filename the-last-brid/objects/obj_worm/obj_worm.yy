@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Tree",
+  "%Name":"obj_worm",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_Tree",
+  "name":"obj_worm",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Tree",
-    "path":"sprites/spr_Tree/spr_Tree.yy",
+    "name":"spr_worm",
+    "path":"sprites/spr_worm/spr_worm.yy",
   },
   "spriteMaskId":null,
   "visible":true,

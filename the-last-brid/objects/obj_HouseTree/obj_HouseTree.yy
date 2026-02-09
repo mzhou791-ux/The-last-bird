@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Tree",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_HouseTree",
+  "eventList":[],
   "managed":true,
-  "name":"obj_Tree",
+  "name":"obj_HouseTree",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Tree",
-    "path":"sprites/spr_Tree/spr_Tree.yy",
+    "name":"spr_HouseTree",
+    "path":"sprites/spr_HouseTree/spr_HouseTree.yy",
   },
   "spriteMaskId":null,
   "visible":true,
