@@ -27,4 +27,9 @@ if global.start = false
 	draw_text(sx + spaceWidth/2, sy + spaceHight/2, "SPACE")
 }
 	
-	
+//拿虫子
+
+if collision_rectangle(y,x,x+64,y-64, obj_Tree,false,false)
+{
+	draw_sprite(spr_Fkey, 0, sx+100, sy)
+}
